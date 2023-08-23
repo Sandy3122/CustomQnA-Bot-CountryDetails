@@ -1,0 +1,17 @@
+{
+  "name": "countrydetails_qna_bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Seeram Sandeep",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^4.20.0",
+    "botbuilder-dialogs": "^4.20.0",
+    "dotenv": "^16.3.1",
+    "restify": "^11.1.0"
+  }
+}
